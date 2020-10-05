@@ -1,0 +1,13 @@
+site_name: Arcane Documentation
+theme:
+  name: "material"
+  feature:
+    tabs: true
+    nav:
+      - Test: index.md
+  palette:
+    primary: "teal"
+    accent: "indigo"
+  favicon: "https://arcanebot.xyz/static/favicon.ico"
+markdown_extensions:
+  - admonition
