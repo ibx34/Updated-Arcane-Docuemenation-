@@ -1,6 +1,8 @@
 # Welcome
 
-Welcome to [Arcane](https://arcanebot.xyz)'s Documentation. This guide is updated when new features are released and provide an alternative to our [Support Server](https://discord.gg/467YPjF).
+Welcome to [Arcane](https://arcanebot.xyz)'s Documentation. This guide is updated when new features are released and provide an alternative to our [Support Server](https://discord.gg/467YPjF). 
+
+You can find commands [here](https://arcanebot.xyz/commands)! 
 
 # Arcane Premium
 
