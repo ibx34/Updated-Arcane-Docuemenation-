@@ -4,9 +4,9 @@
 
 Arcane may not respond for a few reasons.
 
-**1.** Arcane has send messages, embed links, and attach images<br>
+**1.** Arcane doesn't have send messages, embed links, and attach images<br>
 **2.** You're using the correct prefix<br>
-**3.** Arcane isn't down in your server<br>
+**3.** Arcane is restarting and is down in your server<br>
 **4.** The command you're using is disabled<br>
 
 ## How do I add or remove rewards?
