@@ -15,4 +15,4 @@ Please view [the rewards page](http://******/leveling/guild-configuration/)
 
 ## Should I get premium?
 
-**Yes!** Wether you just want to *flex* on your friends you a custom [rank card](http://******/leveling/rank-card/) or you want the sweet uptime of [Arcane Premium](https://www.patreon.com/bePatron?u=25702885). Please do account that Arcane is a **FREE** bot, meaning you don't premium to use it, and no core-features will be locked behind premium. Thank you for using Arcane <3
+**Yes!** Wether you just want to *flex* on your friends you a custom [rank card](http://******/leveling/rank-card/) or you want the sweet uptime of [Arcane Premium](https://www.patreon.com/bePatron?u=25702885). Please do note that Arcane is a **FREE** bot, meaning you don't need premium to use it, and no core-features will be locked behind premium. Thank you for using Arcane <3
