@@ -14,6 +14,16 @@
 | removerole | Remove a role from a member. USE EXACT ROLE NAME. | Dark is not a nerd {removerole:Nerd} | Removes the role "Nerd" from the user | 
 | choose     | Seperate each option by a pipe                    | {choose:Happy|Sad|Mad}               | Happey -> Mad -> Sad                  |
 
+## Math
+
+| Tag             | What                              | Example                      | Output                        |
+|-----------------|-----------------------------------|------------------------------|-------------------------------|
+| range           | Get a random number between a & b | {range:1-10}                 | 6                             |
+| floor           | Round a decimal                   | {floor:5.2}                  | 5                             |
+| square          | Get the sqaure root of a number   | {square:6}                   | 36                            |
+| add             | Add two numbers                   | {add:6+9}                    | 15                            |
+
+
 ## Guild
 
 | Tag               | What                                              | Example                               | Output                                  |
