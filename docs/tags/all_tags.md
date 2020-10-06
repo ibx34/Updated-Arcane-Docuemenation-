@@ -35,6 +35,7 @@
 | guild.ownerid     | Get the owners id                                 | {guild.ownerid} owns the server       | 295980401560649730 owns the server      |
 
 ## Channel
+
 | Tag             | What                        | Example                      | Output                        |
 |-----------------|-----------------------------|------------------------------|-------------------------------|
 | channel.name    | Get the channel name        | You are in {channel.name}    | You are in general            |
@@ -50,6 +51,14 @@
 | user.id           | The user's id                                     | You're {user.id}                      | You're 295980401560649730               |
 | user.mention      | Mention the user                                  | How are you {user.mention}?           | How are you @ImDarkDiamond?             |
 | user.tag          | The user's tag                                    | You're {user.tag}                     | You're ImDarkDiamond#0256               |
+
+## Leveling
+!!!tip
+    You can use `{mention}` to mention the role or `{name}` to just get the role's name
+    
+| Tag               | What                                              | Example                               | Output                                  |
+|-------------------|---------------------------------------------------|---------------------------------------|-----------------------------------------|
+| earned            | The role reward the user has earned               | You've earned {earned: {name}!}       | You've earned Level No Life             |
 
 !!!danger
     The two tags `{user.level}` and `{user.xp}` are NOT exposed to custom commands. Please use `alevel` or `arank`
